@@ -1,0 +1,10 @@
+asgiref==3.9.1
+# Editable install with no version control (bubble-tea==0.1.0)
+-e /root/projects/bubble_tea_project
+Django==5.2.4
+djangorestframework==3.16.1
+Faker==37.5.3
+pillow==11.3.0
+psycopg2-binary==2.9.10
+sqlparse==0.5.3
+tzdata==2025.2
